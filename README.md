@@ -11,7 +11,5 @@ I've worked at multiple service-based companies, shipping tools and products for
 
 **off the clock**, I love high adrenaline sports like skateboarding and running.
 
-## personal info
-
-🔗 [github.com/swzxnne](https://github.com/swzxnne)
+🔗 [github.com/swzxnne](https://github.com/swzxnne) 
 𝕏 [@swzxnne](https://x.com/swzxnne)
