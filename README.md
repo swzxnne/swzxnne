@@ -1,6 +1,6 @@
 # welcome to Suzanne's github...
 
-<img src="https://cdn3.emoji.gg/emojis/125289-desktop.gif" width="28" alt="desktop" align="absmiddle">
+# <img src="https://cdn3.emoji.gg/emojis/125289-desktop.gif" width="28" alt="desktop" align="absmiddle">
 ♡ ─── hi, I am Sue ─── ♡
 
 I'm Suzanne, a mid-level engineer who builds small tools that make the internet a little easier to navigate 👋🏼
