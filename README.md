@@ -5,9 +5,9 @@
 
 I'm Suzanne, a mid-level engineer who builds small tools that make the internet a little easier to navigate 👋🏼
 
-Currently building a Smart Medical vault and agentic systems.
+Currently building a Smart Medical Vault and agentic systems as a passion projects. 
 
-I've worked at multiple service-based companies, shipping tools and products for B2B and SaaS clients. I write mostly in TypeScript and like building command-line tools and things that work with the GitHub API.
+I've worked at multiple service-based companies, shipping tools and products for B2B and SaaS clients. I'm part of Dryplate, a GitHub organization that builds free image tools that run on your device without uploading anything, including a web app, an SDK, and an MCP server.
 
 **off the clock**, I love high adrenaline sports like skateboarding and running.
 
