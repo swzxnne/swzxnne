@@ -2,7 +2,7 @@
 
 <img src="https://cdn3.emoji.gg/emojis/125289-desktop.gif" width="80" alt="desktop" align="absmiddle"> 
 ♡ ─── Gworl Engineer ─── ♡
-
+<br>
 I'm Suzanne 👋🏼, a mid-level engineer who builds small tools that make the internet a little easier to navigate. 
 
 Currently building a Smart Medical Vault and agentic systems as a passion projects. 
