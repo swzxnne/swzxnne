@@ -6,7 +6,7 @@
 
 I'm Suzanne 👋🏼, a Software engineer who builds small tools that make the internet a little easier to navigate. 
 
-Currently building a Smart Medical Vault and agentic systems as a passion projects. 
+Currently building a Smart Medical Vault and agentic systems as passion projects. 
 
 I've worked at multiple service-based companies, shipping tools and products for B2B and SaaS clients. I'm part of Dryplate, a GitHub organization that builds free image tools that run on your device without uploading anything, including a web app, an SDK, and an MCP server.
 
