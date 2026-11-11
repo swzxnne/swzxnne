@@ -4,7 +4,7 @@
 
 ♡ ─── Girl Engineer ─── ♡ <br>
 
-I'm Suzanne 👋🏼, a mid-level engineer who builds small tools that make the internet a little easier to navigate. 
+I'm Suzanne 👋🏼, a Software engineer who builds small tools that make the internet a little easier to navigate. 
 
 Currently building a Smart Medical Vault and agentic systems as a passion projects. 
 
